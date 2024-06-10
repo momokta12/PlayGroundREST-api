@@ -1,0 +1,6 @@
+@PlayGroundRepository_HostAddress = http://localhost:5188
+
+GET {{PlayGroundRepository_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
